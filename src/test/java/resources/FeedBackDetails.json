@@ -1,0 +1,105 @@
+[{
+	"_id": {
+		"$oid": "5df332b8fa88ef042e0d1197"
+	},
+	"eventId": "EVNT00046588",
+	"feedbackType": "Participated",
+	"likes": "nice",
+	"dislikes": "travel",
+	"rating": "5",
+	"notParticipatedReason": "",
+	"unregisteredReason": "",
+	"employeeId": "214211"
+},
+{
+	"_id": {
+		"$oid": "5df332b8fa88ef042e0d1198"
+	},
+	"eventId": "EVNT00046588",
+	"feedbackType": "Participated",
+	"likes": "swimming",
+	"dislikes": "snacks can be provided",
+	"rating": "3",
+	"notParticipatedReason": "",
+	"unregisteredReason": "",
+	"employeeId": "214211"
+},
+{
+	"_id": {
+		"$oid": "5df332b8fa88ef042e0d1199"
+	},
+	"eventId": "EVNT00046588",
+	"feedbackType": "NotParticipated",
+	"likes": "",
+	"dislikes": "",
+	"rating": "",
+	"notParticipatedReason": "Unexpected official work",
+	"unregisteredReason": "",
+	"employeeId": "545665"
+},
+{
+	"_id": {
+		"$oid": "5df332b8fa88ef042e0d119a"
+	},
+	"eventId": "EVNT00046588",
+	"feedbackType": "Unregistered",
+	"likes": "",
+	"dislikes": "",
+	"rating": "",
+	"notParticipatedReason": "",
+	"unregisteredReason": "Did not receieve any further information about the event.",
+	"employeeId": "563434"
+},
+{
+	"_id": {
+		"$oid": "5df3a194fa88ef042e0d11b3"
+	},
+	"eventId": "EVNT00047261",
+	"feedbackType": "Participated",
+	"likes": "nice",
+	"dislikes": "travel",
+	"rating": "5",
+	"notParticipatedReason": "",
+	"unregisteredReason": "",
+	"employeeId": "214211"
+},
+{
+	"_id": {
+		"$oid": "5df3a194fa88ef042e0d11b4"
+	},
+	"eventId": "EVNT00047261",
+	"feedbackType": "Participated",
+	"likes": "swimming",
+	"dislikes": "snacks can be provided",
+	"rating": "3",
+	"notParticipatedReason": "",
+	"unregisteredReason": "",
+	"employeeId": "214211"
+},
+{
+	"_id": {
+		"$oid": "5df3a194fa88ef042e0d11b5"
+	},
+	"eventId": "EVNT00047261",
+	"feedbackType": "NotParticipated",
+	"likes": "",
+	"dislikes": "",
+	"rating": "",
+	"notParticipatedReason": "Unexpected official work",
+	"unregisteredReason": "",
+	"employeeId": "545665"
+},
+{
+	"_id": {
+		"$oid": "5df3a194fa88ef042e0d11b6"
+	},
+	"eventId": "EVNT00047261",
+	"feedbackType": "Unregistered",
+	"likes": "",
+	"dislikes": "",
+	"rating": "",
+	"notParticipatedReason": "",
+	"unregisteredReason": "Did not receieve any further information about the event.",
+	"employeeId": "563434"
+}]
+

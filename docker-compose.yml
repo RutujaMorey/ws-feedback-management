@@ -1,0 +1,46 @@
+version: '3'
+services:
+ wsfeedbackmanagement: 
+  image: outreach-fms:latest
+  restart: always
+  network_mode: host
+  container_name: outreachFMSCon
+  depends_on:
+   - mongo
+  ports:
+   - 8088:8088
+
+ wsfeedbacksendmail: 
+  image: outreach-fbmail:latest
+  restart: always
+  network_mode: host
+  container_name: outreachMailcon
+  depends_on:
+   - mongo
+  ports:
+   - 8089:8089
+#
+# mysql:
+#  image: mysql:5.5
+#  ports:
+#   - 3306:3306
+#  container_name: mysql_container
+#  network_mode: host
+#  environment:
+#   MYSQL_DATABASE: UserDb
+#   MYSQL_ROOT_PASSWORD: root
+#   MYSQL_PASSWORD: root
+#
+ appfeedbackmanagement: 
+  image: outreac-app:latest
+  network_mode: host
+  container_name: appFeedbackCon
+  ports:
+   - 8090:8090
+
+ mongo:
+  image: mongo:3.4-xenial
+  ports:
+   - "27017:27017"
+  container_name: mongo
+  network_mode: host

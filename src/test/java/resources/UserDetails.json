@@ -1,0 +1,56 @@
+[
+	{
+		"_id": "15",
+		"firstName": "Peter",
+		"lastName": "Watson",
+		"emailAddress": "Peter.Watson@cognizant.com",
+		"contactNumber": "93748237343",
+		"role": "Participant",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	},
+	{
+		"_id": "16",
+		"firstName": "Tom",
+		"lastName": "Cotlin",
+		"emailAddress": "Tom.cotlin@cognizant.com",
+		"contactNumber": "9657564564",
+		"role": "Participant",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	},
+	{
+		"_id": "2",
+		"firstName": "Kate",
+		"lastName": "S",
+		"emailAddress": "johnsmith@cognizant.com",
+		"contactNumber": "6345234356",
+		"role": "PMO",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	},
+	{
+		"_id": "3",
+		"firstName": "John",
+		"lastName": "Smith",
+		"emailAddress": "johnsmith@cognizant.com",
+		"contactNumber": "8853645733",
+		"role": "Admin",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	},
+	{
+		"_id": "6",
+		"firstName": "James",
+		"lastName": "Kith",
+		"emailAddress": "James.Kith@cognizant.com",
+		"role": "Participant",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	},
+	{
+		"_id": "7",
+		"firstName": "Hedson",
+		"lastName": "Mark",
+		"emailAddress": "hedsonmark@cognizant.com",
+		"contactNumber": "96547744445",
+		"role": "POC",
+		"_class": "com.feedback.management.collections.UserDetailsCollections"
+	}
+]
+

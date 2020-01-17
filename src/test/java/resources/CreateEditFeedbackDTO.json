@@ -1,0 +1,17 @@
+{
+	"feedbackType": "Unregistered",
+	"questionAnswer": {
+		"question": "Hey there, You had registered for the event on saturday. We would like to know the reason for not joining the event to understand if the team which created the event has some room for improvement in their process, so that we get 100% participaton from the registered attendees.",
+		"answers": [
+			"Do not wish to disclose",
+			"Unexpected Personal Commitment",
+			"Unexpected Official Work",
+			"Even not what I have Expected",
+			"Did not Recieve Further Information About the Event",
+			"Incorrectly Registered"
+		]
+	},
+	"eventId": "EVNT00046588",
+	"questionType": "Multiple choices one answer"
+}
+
